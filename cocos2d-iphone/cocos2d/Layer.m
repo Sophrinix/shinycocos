@@ -148,7 +148,7 @@
 
 + (id) layerWithColor:(ccColor4B)color
 {
-	return [[[self alloc] initWithColor:color] autorelease];
+	//return [[[self alloc] initWithColor:color] autorelease];
 }
 
 - (id) initWithColor:(ccColor4B)color width:(GLfloat)w  height:(GLfloat) h

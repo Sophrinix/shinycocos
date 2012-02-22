@@ -11,7 +11,7 @@
 
 int main(int argc, char *argv[]) {
     NSAutoreleasePool * pool = [[NSAutoreleasePool alloc] init];
- 	ShinyCocosSetup();
+ 	ShinyCocosSetup(@"/Users/sophrinix/Projects/shinycocos/TestShinyCocos/vendor/main.rb");
 	// insert here your ruby extensions (i.e.: Init_xxx())
 	ShinyCocosInitChipmunk();
 	int retVal = UIApplicationMain(argc, argv, nil, @"TestShinyCocosAppDelegate");

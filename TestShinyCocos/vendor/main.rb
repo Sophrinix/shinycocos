@@ -10,7 +10,7 @@
 
 Cocos2D::Director.set_orientation Cocos2D::Director::ORIENTATION_LANDSCAPE_LEFT
 Cocos2D::Director.set_animation_interval 1/70.0
-Cocos2D::Director.display_fps true
+Cocos2D::Director.display_fps false
 
 $scenes = [
   TestScene,
