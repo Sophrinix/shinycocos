@@ -2,13 +2,14 @@
 
 
 =TODO
-upgrade and uncruft xcode 3 and iOS 3 legacy. Move project to iOS 5 and xcode4 template
-upgrade cocos2d
-upgrade chimpmunk
-upgrade ruby
-get tests im place
-build example app
-promote
+DONE upgrade and uncruft xcode 3 and iOS 3 legacy. 
+     Move project to iOS 5 and xcode4 template
+     upgrade cocos2d
+     upgrade chimpmunk
+     upgrade ruby
+     get tests im place
+     build example app
+     promote
 
 == About
 
